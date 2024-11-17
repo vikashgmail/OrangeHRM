@@ -1,0 +1,12 @@
+{
+    "PIM":"[href='/web/index.php/pim/viewPimModule']",
+    "addEmployee":"[class='oxd-topbar-body-nav-tab-item']",
+    "employeeList":"[class='oxd-topbar-body-nav-tab-item']",
+    "EmployeeName":"[placeholder='Type for hints...']",
+    "search":"[type='submit']",
+    "firstName":"[name='firstName']",
+    "lastName":"[name='lastName']",
+    "searchresult":"[class='oxd-table-row oxd-table-row--with-border oxd-table-row--clickable']",
+
+    "save":"[type='submit']"
+}

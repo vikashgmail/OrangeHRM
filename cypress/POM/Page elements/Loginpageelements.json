@@ -1,0 +1,7 @@
+{
+    "loginPageLocators":{
+        "username":"[name='username']",
+        "password":"[name='password']",
+        "login":"[type='submit']"
+    }
+}

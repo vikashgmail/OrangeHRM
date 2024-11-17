@@ -1,0 +1,4 @@
+{
+    "profile":"[class='oxd-userdropdown-name']",
+    "logout":"[href='/web/index.php/auth/logout']"
+}

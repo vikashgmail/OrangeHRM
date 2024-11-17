@@ -1,0 +1,7 @@
+{
+    "MyInfo":":nth-child(6) > .oxd-main-menu-item > .oxd-text",
+    "firstName":"[name='firstName']",
+    "middleName":"[name='middleName']",
+    "lastName":"[name='lastName']",
+    "save":":nth-child(1) > .oxd-form > .oxd-form-actions > .oxd-button"
+}
